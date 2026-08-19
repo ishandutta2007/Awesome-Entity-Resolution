@@ -1,6 +1,6 @@
 # Awesome-Entity-Resolution
 
-## Top Entity Resolution Tools Ecosystem
+### Top Entity Resolution Tools Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
 *Focused on Entity Resolution, Record Linkage, Identity Resolution, Deduplication & Master Data Management*  
