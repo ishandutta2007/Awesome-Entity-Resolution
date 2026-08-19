@@ -29,77 +29,33 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Senzing](https://senzing.com/)**  
-  Real-time entity resolution and identity intelligence platform focused on resolving people, organizations, and relationships across disparate data sources. Designed to run within an organization's own infrastructure as well as cloud environments.
+| Platform / Product | Description | Starting Tier Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Senzing](https://senzing.com/)** | Real-time entity resolution and identity intelligence platform focused on resolving people, organizations, and relationships across disparate data sources. Designed to run within an organization's own infrastructure as well as cloud environments. | $58,560/year (for up to 10M Data Source Records) | Free forever SDK license up to 500 records; Free 1-day PoC up to 1,000,000 records; Azure Marketplace trial up to 250,000 records |
+| **[Tamr](https://www.tamr.com/)** | AI-native entity resolution and data mastering platform for matching, deduplicating, clustering, scoring, and creating trusted golden records across enterprise datasets. | ~$50,000/year (~$4,166/month, output-based golden record tiers) | 14 to 30-day guided Proof of Concept (PoC) / sandbox evaluation upon sales request (no self-service free tier) |
+| **[Quantexa](https://www.quantexa.com/)** | Data and decision intelligence platform centered around dynamic entity resolution, contextual data integration, and knowledge-graph-driven analysis for customers, organizations, transactions, and other entities. | ~$100,000/year (scaled by entity volume and network complexity) | 30-day custom Proof of Value (PoV) / guided sandbox trial upon enterprise engagement (no self-service free tier) |
+| **[Relativity](https://www.relativity.com/)** | Legal and investigative data platform with entity-oriented capabilities for identifying and organizing people, organizations, communications, and other entities across large volumes of case data. | RelativityOne starts at ~$30–$40/GB per month with ~$5,000/month platform minimum | 14 to 30-day guided evaluation sandbox upon enterprise inquiry (no self-service free tier) |
+| **[IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management)** | Enterprise MDM platform providing matching, reconciliation, governance, and golden-record capabilities across critical master-data domains. | ~$3,500/month (~$42,000/year on IBM Cloud / software license) | 30-day free trial on IBM Cloud with $200 free trial credits across cloud services |
+| **[Ataccama ONE](https://www.ataccama.com/)** | Enterprise data management platform combining data quality, MDM, governance, integration, and matching capabilities for creating trusted master records. | ~$30,000/year (~$2,500/month based on named users and managed data objects) | 30-day free trial of Ataccama ONE Cloud platform with sample datasets and data quality checks |
+| **[Reltio](https://www.reltio.com/)** | Cloud-native master data and context intelligence platform with AI-powered entity resolution, match-and-merge, survivorship, and real-time golden-record capabilities. | ~$60,000/year (~$5,000/month for Connected Data Platform / Multidomain MDM) | 30-day guided trial / sandbox on AWS/Azure Marketplace upon request (no self-service free tier) |
+| **[Precisely](https://www.precisely.com/)** | Data integrity platform offering automated data matching and entity resolution for customers, suppliers, assets, locations, and other enterprise entities. | ~$20,000–$35,000/year for Data Integrity Suite / Spectrum modules | 30-day free trial / interactive developer sandbox for Data Integrity Suite APIs |
+| **[Informatica MDM](https://www.informatica.com/products/master-data-management.html)** | Enterprise master data management platform with identity resolution, matching, survivorship, hierarchy management, and golden-record capabilities. | ~$1,250/month ($15,000/year for base IDMC IPU consumption packs); Core licenses from $70,000/year | 30-day free trial on Informatica IDMC with 500 compute hours and up to 10,000 processed rows |
+| **[DataWalk](https://datawalk.com/)** | Investigative analytics and decision-intelligence platform combining entity resolution with knowledge graphs, data integration, risk analysis, fraud detection, and investigation workflows. | ~$3,000/month (~$36,000/year) or $50,000 base package deployment | 30-day Proof of Concept (PoC) evaluation environment upon request (no self-service free tier) |
+| **[SAP Master Data Governance](https://www.sap.com/products/technology-platform/master-data-governance.html)** | Enterprise master-data governance platform supporting centralized management, matching, validation, consolidation, and governance of business entities. | ~$6,250/month (~$75,000/year for Cloud Edition up to 5,000 master data objects) | 30-day free trial via SAP Business Technology Platform (BTP) / 90-day guided evaluation |
+| **[Oracle Customer Data Management](https://www.oracle.com/cx/customer-data-management/)** | Oracle's customer data and master-data capabilities for consolidating customer information, identifying duplicates, and maintaining trusted customer records. | $300 per 1,000 records/month (or $100 per user/month) | 30-day free trial with $300 in Oracle Cloud credits plus access to Oracle Cloud Always Free services |
+| **[Salesforce Data Cloud](https://www.salesforce.com/data/)** | Customer data platform with identity resolution capabilities for unifying customer records and creating a consolidated customer profile across data sources. | $60,000/year for Starter Edition (or add-on credit packs from $500 for 100,000 credits) | Free Provisioning SKU for Enterprise/Unlimited Edition customers (includes 250,000 Data Cloud credits and 1 TB storage) |
+| **[Microsoft Dynamics 365 Customer Insights](https://www.microsoft.com/dynamics-365/products/customer-insights)** | Customer data platform with data unification and identity-resolution capabilities for combining customer records across enterprise systems. | $1,700/tenant/month (or $1,000/tenant/month attach license for existing Dynamics 365 customers) | 30-day free trial with full access to Customer Insights Data & Journeys (no credit card required) |
+| **[Semarchy xDM](https://www.semarchy.com/)** | Model-driven master data management platform providing matching, merging, survivorship, governance, and golden-record management. | ~£40,000/year (~$50,000/year or ~$4,166/month for entry tier up to 50,000 base objects) | 30-day free trial (full-featured downloadable license or cloud marketplace sandbox) |
+| **[Stibo Systems STEP](https://www.stibosystems.com/)** | Enterprise master data platform for managing and harmonizing product, customer, supplier, and other business entities across complex data landscapes. | ~$50,000–$75,000/year for Enterprise SaaS tier | 30-day structured Proof of Concept (PoC) / sandbox on request (no self-service free tier) |
+| **[Profisee](https://profisee.com/)** | Master data management platform focused on data quality, matching, governance, and trusted golden records. | ~$35,000–$48,000/year (~$3,000/month for MDM Cloud base tier) | 30-day free trial / Fast Track Proof of Concept via Microsoft Azure Marketplace |
+| **[Riversand / Syndigo](https://syndigo.com/)** | Enterprise product and master data platform supporting data consolidation, matching, enrichment, and entity-centric management. | ~$25,000–$40,000/year for Multidomain MDM base tier | 14 to 30-day guided interactive demo / sandbox upon request (no self-service free tier) |
+| **[Uniserv](https://www.uniserv.com/)** | Data quality and identity matching platform offering address verification, duplicate detection, customer matching, and data cleansing. | ~€500/month (~$540/month or €0.01 per record lookup in batch) | 30-day free trial with up to 500 free test record validation/matching requests |
+| **[Melissa](https://www.melissa.com/)** | Data quality platform providing identity resolution, address matching, deduplication, enrichment, and customer-data cleansing. | $30 (for 10,000 credits) or $1,025/year for Web APIs direct packages; Data Quality Suite at ~$12,300/year | 1,000 free credits forever via Developer Portal; 30-day free trial for on-premise Data Quality Suite |
+| **[Dun & Bradstreet](https://www.dnb.com/)** | Enterprise data platform providing company identification, business matching, hierarchy resolution, and organization master-data capabilities. | ~$2,500/year (~$208/month) for D&B Hoovers / D&B Direct+ entry API package | 30-day free trial with 1,000 free test API calls via D&B Direct+ Developer Portal |
+| **[Acxiom](https://www.acxiom.com/)** | Customer intelligence and identity-data platform supporting identity resolution, audience matching, enrichment, and customer data unification. | ~$1,500/month (~$18,000/year for Real Identity / identity hygiene APIs) | 30-day evaluation sandbox / sample batch match of up to 5,000 records upon sales consultation |
+| **[LiveRamp](https://liveramp.com/)** | Identity and data collaboration platform focused on identity resolution, identity graphs, data matching, and privacy-conscious customer connectivity. | ~$2,500/month (~$30,000/year for RampID / Identity Resolution base tier) | 14-day trial / developer sandbox with up to 10,000 test identity graph records |
+| **[Neustar](https://www.transunion.com/solution/neustar)** | Identity and data-resolution technology supporting customer identity, marketing identity, fraud, and analytics use cases. | ~$1,000–$2,000/month (~$12,000/year for OneID API packages) | 30-day test environment / evaluation sandbox upon developer inquiry |
 
-- **[Tamr](https://www.tamr.com/)**  
-  AI-native entity resolution and data mastering platform for matching, deduplicating, clustering, scoring, and creating trusted golden records across enterprise datasets.
-
-- **[Quantexa](https://www.quantexa.com/)**  
-  Data and decision intelligence platform centered around dynamic entity resolution, contextual data integration, and knowledge-graph-driven analysis for customers, organizations, transactions, and other entities.
-
-- **[Relativity](https://www.relativity.com/)**  
-  Legal and investigative data platform with entity-oriented capabilities for identifying and organizing people, organizations, communications, and other entities across large volumes of case data.
-
-- **[IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management)**  
-  Enterprise MDM platform providing matching, reconciliation, governance, and golden-record capabilities across critical master-data domains.
-
-- **[Ataccama ONE](https://www.ataccama.com/)**  
-  Enterprise data management platform combining data quality, MDM, governance, integration, and matching capabilities for creating trusted master records.
-
-- **[Reltio](https://www.reltio.com/)**  
-  Cloud-native master data and context intelligence platform with AI-powered entity resolution, match-and-merge, survivorship, and real-time golden-record capabilities.
-
-- **[Precisely](https://www.precisely.com/)**  
-  Data integrity platform offering automated data matching and entity resolution for customers, suppliers, assets, locations, and other enterprise entities.
-
-- **[Informatica MDM](https://www.informatica.com/products/master-data-management.html)**  
-  Enterprise master data management platform with identity resolution, matching, survivorship, hierarchy management, and golden-record capabilities.
-
-- **[DataWalk](https://datawalk.com/)**  
-  Investigative analytics and decision-intelligence platform combining entity resolution with knowledge graphs, data integration, risk analysis, fraud detection, and investigation workflows.
-
-- **[SAP Master Data Governance](https://www.sap.com/products/technology-platform/master-data-governance.html)**  
-  Enterprise master-data governance platform supporting centralized management, matching, validation, consolidation, and governance of business entities.
-
-- **[Oracle Customer Data Management](https://www.oracle.com/cx/customer-data-management/)**  
-  Oracle's customer data and master-data capabilities for consolidating customer information, identifying duplicates, and maintaining trusted customer records.
-
-- **[Salesforce Data Cloud](https://www.salesforce.com/data/)**  
-  Customer data platform with identity resolution capabilities for unifying customer records and creating a consolidated customer profile across data sources.
-
-- **[Microsoft Dynamics 365 Customer Insights](https://www.microsoft.com/dynamics-365/products/customer-insights)**  
-  Customer data platform with data unification and identity-resolution capabilities for combining customer records across enterprise systems.
-
-- **[Semarchy xDM](https://www.semarchy.com/)**  
-  Model-driven master data management platform providing matching, merging, survivorship, governance, and golden-record management.
-
-- **[Stibo Systems STEP](https://www.stibosystems.com/)**  
-  Enterprise master data platform for managing and harmonizing product, customer, supplier, and other business entities across complex data landscapes.
-
-- **[Profisee](https://profisee.com/)**  
-  Master data management platform focused on data quality, matching, governance, and trusted golden records.
-
-- **[Riversand / Syndigo](https://syndigo.com/)**  
-  Enterprise product and master data platform supporting data consolidation, matching, enrichment, and entity-centric management.
-
-- **[Uniserv](https://www.uniserv.com/)**  
-  Data quality and identity matching platform offering address verification, duplicate detection, customer matching, and data cleansing.
-
-- **[Melissa](https://www.melissa.com/)**  
-  Data quality platform providing identity resolution, address matching, deduplication, enrichment, and customer-data cleansing.
-
-- **[Dun & Bradstreet](https://www.dnb.com/)**  
-  Enterprise data platform providing company identification, business matching, hierarchy resolution, and organization master-data capabilities.
-
-- **[Acxiom](https://www.acxiom.com/)**  
-  Customer intelligence and identity-data platform supporting identity resolution, audience matching, enrichment, and customer data unification.
-
-- **[LiveRamp](https://liveramp.com/)**  
-  Identity and data collaboration platform focused on identity resolution, identity graphs, data matching, and privacy-conscious customer connectivity.
-
-- **[Neustar](https://www.transunion.com/solution/neustar)**  
-  Identity and data-resolution technology supporting customer identity, marketing identity, fraud, and analytics use cases.
 
 ## Open-Source GitHub Projects
 
